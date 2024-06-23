@@ -11,14 +11,14 @@ public class RandomNumber {
     
     int length;
     boolean allowDuplicates = true;
-				
-									public RandomNumber(int length) { // Constructor
-									    if (length > 0) {
-									        this.length = length;
-									    } else {
-									        System.out.println("Error: Length must be larger than 0");
-									    }
-									}
+    
+    public RandomNumber(int length) { // Constructor
+        if (length > 0) {
+            this.length = length;
+        } else {
+            System.out.println("Error: Length must be larger than 0");
+        }
+    }
     
     // Allow duplicates method
     public void allowDuplicates(boolean value) {
