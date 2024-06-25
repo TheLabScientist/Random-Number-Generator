@@ -31,7 +31,5 @@ When this method is omitted, the default value is `Mix.BOTH`
 #### `getNumber()`
 The `getNumber()` method is an object method that builds and returns the generated number as a string
 
-> ***More features coming soon...***
-
 
 Made with love by **TheLabScientist (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤**
